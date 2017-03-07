@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1487339434 source:d:\Лабораторные 4 семестр\ООП\Работа с текстом\consoleapplication3\consoleapplication3.cpp
+	"stdafx.h"
+	<iostream>
+	<windows.h>
+	<assert.h>
+	<stdio.h>
+	<algorithm>
+	<string>
+	<cctype>
+	<fstream>
+	<math.h>
+
+1487313593 d:\Лабораторные 4 семестр\ООП\Работа с текстом\consoleapplication3\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1487318113 d:\Лабораторные 4 семестр\ООП\Работа с текстом\consoleapplication3\targetver.h
+
+1487313593 source:d:\Лабораторные 4 семестр\ООП\Работа с текстом\consoleapplication3\stdafx.cpp
+	"stdafx.h"
+
